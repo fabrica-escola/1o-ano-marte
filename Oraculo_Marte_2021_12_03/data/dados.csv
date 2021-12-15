@@ -1,0 +1,33 @@
+num,sentimento,nome_cor,cor_hex,R,G,B,arquivo,cor_texto
+1,Compaixão,,,255,141,152,Compaixão.jpg,
+2,Paz,verde-azul,#8fb1b1,143,177,177,Paz.jpg,0
+3,Solidão,azul-preto,#18354f,24,53,79,Solidão.jpg,255
+4,Contentamento,verde ,#18a300,24,163,0,Contentamento.jpg,255
+5,Inveja,verde,#3b61bc,59,190,28,Inveja.jpg,255
+6,Disforia,quase preto,#272828,39,40,40,Disforia.jpg,255
+7,Tristeza,azul  ,#3b91bc,59,145,188,Tristeza.jpg,255
+8,Apatia,cinza,#868686,134,134,134,Apatia.jpg,255
+9,Segurança,vremelho fechado,#c52a00,197,42,0,Segurança.jpg,255
+10,Timidez,azul-cinza,#9eb1ba,158,177,186,Timidez.jpg,0
+11,Amor,rosa,#f79292,247,146,146,Amor.jpg,0
+12,Saudade,,,114,146,163,Saudade.jpg,255
+13,Cansaço,azul-preto,#374352,55,67,0,Cansaço.jpg,255
+14,Coragem,laranja,#ff6600,255,102,0,Coragem.jpg,0
+15,Medo,azul-esverdeado,#425a53,66,90,83,Medo.jpg,255
+16,Disposição,amarelo-verde,#e8ff3c,232,255,60,Disposição.jpg,0
+17,Raiva,vermelho,#b62222,214,34,34,Raiva.jpg,0
+18,Ódio,vermelho,#ff0000,255,0,0,Ódio.jpg,0
+19,Confiança,dourado,#c7882a,199,136,42,Confiança.jpg,0
+20,Insegurança,azul-cinza,#738b98,115,139,152,Insegurança.jpg,0
+21,Culpa,,,105,21,31,Culpa.jpg,255
+22,Alegria,amarelo,#ffe100,225,225,0,Alegria.jpg,0
+23,Euforia,rosa,#ff9ab3,255,154,179,Euforia.jpg,0
+24,Orgulho,laranja-dourado,#ffbb00,255,187,0,Orgulho.jpg,0
+25,Obsessão,,,104,59,111,Obsessão.jpg,255
+26,Pertencimento,laranja,#ffb663,255,182,99,Pertencimento.jpg,0
+27,Angústia,marrom,#462411,70,36,17,Angústia.jpg,255
+28,Confusão,cinza,#6c6e6e,108,110,110,Confusão.jpg,255
+29,Paixão,vernelho,#b31a0c,179,26,12,Paixão.jpg,0
+30,Traição,,,83,23,0,Traição.jpg,255
+31,Luto,,#000000,0,0,0,Luto.jpg,255
+32,Indiferença,cinza,#a6a6a6,166,166,166,Indiferença.jpg,0
