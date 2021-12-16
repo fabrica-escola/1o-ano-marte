@@ -1,7 +1,9 @@
 # 1o ano Marte
 
 
-### Projeto Oráculo
+### Projeto Oráculo Metonímia
+
+[Manual em PDF](https://github.com/fabrica-escola/1o-ano-marte/raw/main/Manual_Oraculo_Metonimia.pdf)
 
 Para consultar o oráculo no seu computador:
 - Precisa ter no computador (com Mac OS, Windows ou Linux) o Processing IDE 3.5.4 com o modo Python, se precisar, veja [instruções aqui](https://abav.lugaralgum.com/como-instalar-o-processing-modo-python/).
